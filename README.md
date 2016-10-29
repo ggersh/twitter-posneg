@@ -1,5 +1,5 @@
 # twitterPositiveNegative
-Sentiment analysis of tweets; determines if tweets containing a specific word are positive or negative and graphs the trend
+## H2 Sentiment analysis of tweets; determines if tweets containing a specific word are positive or negative and graphs the trend
 
 
 **How to Run:**
@@ -10,6 +10,7 @@ Sentiment analysis of tweets; determines if tweets containing a specific word ar
 
 
 **How it works:**
+
 -Implements twitter API with tweepy to stream tweets
 
 -Cleans the tweets by removing usernames, links, hashtags, and emojis
