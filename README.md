@@ -2,12 +2,14 @@
 Sentiment analysis of tweets; determines if tweets containing a specific word are positive or negative and graphs the trend
 
 
-How to Run:
+**How to Run:**
+
 1. User must install tweepy and the Natural Language toolkit (nltk)
+
 2. First run the stream, *then* run the grapher
 
 
-How it works:
+**How it works:**
 -Implements twitter API with tweepy to stream tweets
 
 -Cleans the tweets by removing usernames, links, hashtags, and emojis
