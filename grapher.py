@@ -32,3 +32,4 @@ def animate(i):
     ax1.plot(xar,yar)
 ani = animation.FuncAnimation(fig, animate, interval=1000)
 plt.show()
+ 
